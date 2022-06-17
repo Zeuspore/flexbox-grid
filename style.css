@@ -101,7 +101,7 @@ button:hover{
     transition: 0.4s;
 }
 
-@media (min-width:375px){
+@media (max-width:375px){
     main{
         flex-direction: column;
         gap: 5px;
