@@ -12,6 +12,11 @@ body{
     
 }
 
+nav a{
+    color: blue;
+}
+
+
 main{
     width: 50%;
     margin: auto;
